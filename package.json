@@ -71,6 +71,6 @@
     "x-satori": "0.1.5"
   },
   "dependencies": {
-    "dotenv": "^16.3.1"
+    "dotenv": "^16.6.1"
   }
 }
